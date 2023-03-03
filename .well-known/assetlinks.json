@@ -1,4 +1,7 @@
+layout: none
+permalink: .well-known/assetlinks.json
 [{
+  
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.dreamworks.jetpackcomposerecipes",
                "sha256_cert_fingerprints": ["6B:1F:81:01:81:7C:7A:06:50:08:23:AD:3E:C5:DA:58:6A:A8:86:8F:A4:F6:EE:92:09:9C:B6:8A:C7:7B:20:36"] }
